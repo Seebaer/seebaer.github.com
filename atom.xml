@@ -4,7 +4,7 @@
   <title><![CDATA[Seebaer]]></title>
   <link href="http://Seebaer.github.com/atom.xml" rel="self"/>
   <link href="http://Seebaer.github.com/"/>
-  <updated>2011-10-21T22:41:51+02:00</updated>
+  <updated>2011-10-22T12:43:44+02:00</updated>
   <id>http://Seebaer.github.com/</id>
   <author>
     <name><![CDATA[Pascal Stellmes]]></name>
@@ -12,5 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hallo Welt]]></title>
+    <link href="http://Seebaer.github.com/blog/2011/10/21/hallo/"/>
+    <updated>2011-10-21T22:48:00+02:00</updated>
+    <id>http://Seebaer.github.com/blog/2011/10/21/hallo</id>
+    <content type="html"><![CDATA[<p>So, wie man unschwer erkennen kann ist dies mein erster Eintrag auf meiner neuen Blog Seite.
+Ihr werdet auf dieser Seite allerlei interessante (zumindest in meinen Augen interessant) Sachen vorfinden,
+wie zum Beispiel meine Meinung zu diversen Filmen, Alben, Musiker und so weiter
+Des weiteren habe ich vor kurzem damit angefangen Ruby zu lernen und werde in regelmäßigen Abständen über meinen Fortschritt dabei bloggen.
+Ich versuche meine Beiträge so interessant wie möglich zu halten und hoffe auf eine stetig wachsende Folgerschar ;)</p>
+
+<p>Bis dahin,
+schönen Tag noch.</p>
+]]></content>
+  </entry>
   
 </feed>

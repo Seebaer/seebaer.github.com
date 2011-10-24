@@ -1,0 +1,15 @@
+﻿---
+layout: post
+title: "Hallo Welt"
+date: 2011-10-21 22:48
+comments: true
+categories: 
+---
+So, wie man unschwer erkennen kann ist dies mein erster Eintrag auf meiner neuen Blog Seite.
+Ihr werdet auf dieser Seite allerlei interessante (zumindest in meinen Augen interessant) Sachen vorfinden,
+wie zum Beispiel meine Meinung zu diversen Filmen, Alben, Musiker und so weiter
+Des weiteren habe ich vor kurzem damit angefangen Ruby zu lernen und werde in regelmäßigen Abständen über meinen Fortschritt dabei bloggen.
+Ich versuche meine Beiträge so interessant wie möglich zu halten und hoffe auf eine stetig wachsende Folgerschar ;)
+
+Bis dahin,
+schönen Tag noch.
